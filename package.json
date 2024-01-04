@@ -1,0 +1,19 @@
+{
+  "name": "auth-point",
+  "version": "1.0.0",
+  "description": "Simple auth generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneMalin/auth-point.git"
+  },
+  "author": "Eugene Malin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EugeneMalin/auth-point/issues"
+  },
+  "homepage": "https://github.com/EugeneMalin/auth-point#readme"
+}
